@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: de.rototor.pdfbox/graphics2d:0.32">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/rototor/pdfbox/graphics2d/0.32/graphics2d-0.32.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

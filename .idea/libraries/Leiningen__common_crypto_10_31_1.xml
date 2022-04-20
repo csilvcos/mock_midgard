@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: common-crypto:10.31.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/common-crypto/common-crypto/10.31.1/common-crypto-10.31.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

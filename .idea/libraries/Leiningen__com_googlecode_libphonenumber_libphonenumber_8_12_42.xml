@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: com.googlecode.libphonenumber/libphonenumber:8.12.42">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/libphonenumber/libphonenumber/8.12.42/libphonenumber-8.12.42.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

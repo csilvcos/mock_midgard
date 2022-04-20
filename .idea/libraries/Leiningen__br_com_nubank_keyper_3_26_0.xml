@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: br.com.nubank/keyper:3.26.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/br/com/nubank/keyper/3.26.0/keyper-3.26.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

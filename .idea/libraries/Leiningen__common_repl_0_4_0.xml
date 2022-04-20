@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: common-repl:0.4.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/common-repl/common-repl/0.4.0/common-repl-0.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

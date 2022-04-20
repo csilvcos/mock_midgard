@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: nu-faraday:1.9.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/nu-faraday/nu-faraday/1.9.4/nu-faraday-1.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

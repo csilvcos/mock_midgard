@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: common-redis:2.31.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/common-redis/common-redis/2.31.2/common-redis-2.31.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

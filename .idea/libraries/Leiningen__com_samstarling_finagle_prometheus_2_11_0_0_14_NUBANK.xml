@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: com.samstarling/finagle-prometheus_2.11:0.0.14-NUBANK">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/samstarling/finagle-prometheus_2.11/0.0.14-NUBANK/finagle-prometheus_2.11-0.0.14-NUBANK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

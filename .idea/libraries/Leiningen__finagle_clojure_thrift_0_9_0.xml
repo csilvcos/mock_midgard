@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: finagle-clojure/thrift:0.9.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/finagle-clojure/thrift/0.9.0/thrift-0.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

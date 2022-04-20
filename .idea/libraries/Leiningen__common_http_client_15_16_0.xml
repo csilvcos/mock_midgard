@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: common-http-client:15.16.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/common-http-client/common-http-client/15.16.0/common-http-client-15.16.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

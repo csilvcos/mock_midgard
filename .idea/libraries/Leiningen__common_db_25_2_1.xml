@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: common-db:25.2.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/common-db/common-db/25.2.1/common-db-25.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: com.twitter/finagle-serversets_2.11:20.8.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/twitter/finagle-serversets_2.11/20.8.1/finagle-serversets_2.11-20.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

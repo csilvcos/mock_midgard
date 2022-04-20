@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: common-finagle:11.5.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/common-finagle/common-finagle/11.5.0/common-finagle-11.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: common-kafka:13.9.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/common-kafka/common-kafka/13.9.0/common-kafka-13.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

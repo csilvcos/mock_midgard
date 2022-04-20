@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: com.twitter/util-slf4j-api_2.11:20.8.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/twitter/util-slf4j-api_2.11/20.8.1/util-slf4j-api_2.11-20.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
